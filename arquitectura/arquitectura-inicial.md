@@ -1,0 +1,24 @@
+# Arquitectura inicial del sistema
+
+## Arquitectura en tres capas
+
+```text
+┌────────────────────────────────────┐
+│            PRESENTACIÓN            │
+│        Web / API / Interfaz        │
+└─────────────────┬──────────────────┘
+                  ↓
+┌────────────────────────────────────┐
+│        LÓGICA DE NEGOCIO           │
+│                                    │
+│  Catálogo                          │
+│  Carrito                           │
+│  Pedidos                           │
+│  Sellers                           │
+│  Usuarios                          │
+└─────────────────┬──────────────────┘
+                  ↓
+┌────────────────────────────────────┐
+│               DATOS                │
+│          Base de datos             │
+└────────────────────────────────────┘
