@@ -2,4 +2,4 @@
 
 ## Arquitectura del Marketplace
 
-![Arquitectura del Marketplace](imagenes/estilo-arquitectonico.png)
+![Arquitectura del Marketplace](../../img/estilo-arquitectonico.png)

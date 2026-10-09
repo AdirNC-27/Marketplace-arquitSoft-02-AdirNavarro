@@ -12,4 +12,4 @@
 
 ## Diagrama del enfoque arquitectónico
 
-![Clean Architecture aplicada al Marketplace](diagrama-clean-architecture.png)
+![Clean Architecture aplicada al Marketplace](../../img/diagrama-clean-architecture.png)
